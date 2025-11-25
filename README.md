@@ -5,7 +5,8 @@ A simple, no-code AI Mentor Chatbot built using n8n, Google Gemini, and Telegram
 ---
 
 ## 📸 Workflow Snapshot
-<img width="750" alt="Certificate Eligibility Workflow Snapshot" src="https://github.com/userattachments/assets/0a4d9b39-395d-4d30-819c-9a9d960195da" />
+<img width="750" alt="AI-Mentor-Chatbot" src="https://github.com/user-attachments/assets/e60eef1f-5d44-4168-9fcb-f643820d968c" />
+" />
 
 ---
 
@@ -19,11 +20,11 @@ A simple, no-code AI Mentor Chatbot built using n8n, Google Gemini, and Telegram
 ---
 
 ## How It Works
-1. Telegram Trigger captures incoming messages  
-2. AI Agent Node processes user queries  
-3. Gemini Chat Model generates intelligent replies  
-4. Simple Memory Node stores conversation context  
-5. SendMessage Node sends replies back to Telegram  
+- Telegram Trigger captures incoming messages  
+- AI Agent Node processes user queries  
+- Gemini Chat Model generates intelligent replies  
+- Simple Memory Node stores conversation context  
+- SendMessage Node sends replies back to Telegram  
 
 ---
 
@@ -44,6 +45,7 @@ A simple, no-code AI Mentor Chatbot built using n8n, Google Gemini, and Telegram
 
 ## ▶️ Demo Video
 [Watch Here](https://github.com/patilketan03/AI-Mentor-Bot/blob/main/AI-Mentor-Chatbot.mp4)
+
 
 
 ---
